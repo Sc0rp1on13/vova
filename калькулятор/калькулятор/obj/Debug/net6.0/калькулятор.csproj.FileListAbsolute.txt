@@ -1,0 +1,15 @@
+D:\Users\vova\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.csproj.AssemblyReference.cache
+D:\Users\vova\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\vova\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.AssemblyInfoInputs.cache
+D:\Users\vova\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.AssemblyInfo.cs
+D:\Users\vova\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.csproj.CoreCompileInputs.cache
+D:\Users\vova\source\repos\калькулятор\калькулятор\bin\Debug\net6.0\калькулятор.exe
+D:\Users\vova\source\repos\калькулятор\калькулятор\bin\Debug\net6.0\калькулятор.deps.json
+D:\Users\vova\source\repos\калькулятор\калькулятор\bin\Debug\net6.0\калькулятор.runtimeconfig.json
+D:\Users\vova\source\repos\калькулятор\калькулятор\bin\Debug\net6.0\калькулятор.dll
+D:\Users\vova\source\repos\калькулятор\калькулятор\bin\Debug\net6.0\калькулятор.pdb
+D:\Users\vova\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.dll
+D:\Users\vova\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\refint\калькулятор.dll
+D:\Users\vova\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.pdb
+D:\Users\vova\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.genruntimeconfig.cache
+D:\Users\vova\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\ref\калькулятор.dll
