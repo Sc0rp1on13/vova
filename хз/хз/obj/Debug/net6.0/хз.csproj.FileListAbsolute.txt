@@ -1,0 +1,15 @@
+D:\Users\vova\source\repos\хз\хз\bin\Debug\net6.0\хз.exe
+D:\Users\vova\source\repos\хз\хз\bin\Debug\net6.0\хз.deps.json
+D:\Users\vova\source\repos\хз\хз\bin\Debug\net6.0\хз.runtimeconfig.json
+D:\Users\vova\source\repos\хз\хз\bin\Debug\net6.0\хз.dll
+D:\Users\vova\source\repos\хз\хз\bin\Debug\net6.0\хз.pdb
+D:\Users\vova\source\repos\хз\хз\obj\Debug\net6.0\хз.csproj.AssemblyReference.cache
+D:\Users\vova\source\repos\хз\хз\obj\Debug\net6.0\хз.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\vova\source\repos\хз\хз\obj\Debug\net6.0\хз.AssemblyInfoInputs.cache
+D:\Users\vova\source\repos\хз\хз\obj\Debug\net6.0\хз.AssemblyInfo.cs
+D:\Users\vova\source\repos\хз\хз\obj\Debug\net6.0\хз.csproj.CoreCompileInputs.cache
+D:\Users\vova\source\repos\хз\хз\obj\Debug\net6.0\хз.dll
+D:\Users\vova\source\repos\хз\хз\obj\Debug\net6.0\refint\хз.dll
+D:\Users\vova\source\repos\хз\хз\obj\Debug\net6.0\хз.pdb
+D:\Users\vova\source\repos\хз\хз\obj\Debug\net6.0\хз.genruntimeconfig.cache
+D:\Users\vova\source\repos\хз\хз\obj\Debug\net6.0\ref\хз.dll
